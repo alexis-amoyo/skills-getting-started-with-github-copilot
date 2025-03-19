@@ -80,6 +80,21 @@ section h3 {
   color: #333;
 }
 
+/* Add new styles for participants list */
+.activity-card .participants {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #555;
+}
+
+.activity-card .participants span {
+  display: inline-block;
+  margin-right: 5px;
+  background-color: #e0e0e0;
+  padding: 2px 5px;
+  border-radius: 3px;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
